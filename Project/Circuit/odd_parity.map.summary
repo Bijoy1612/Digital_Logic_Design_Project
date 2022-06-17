@@ -1,0 +1,15 @@
+Analysis & Synthesis Status : Successful - Wed Dec 30 22:40:08 2020
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Web Edition
+Revision Name : odd_parity
+Top-level Entity Name : odd_parity
+Family : Stratix II
+Logic utilization : N/A
+    Combinational ALUTs : 1
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 9
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 9-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0
